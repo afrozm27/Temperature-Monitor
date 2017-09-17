@@ -1,0 +1,10 @@
+/* component styles go here */
+#progressBar{
+  border-radius: 5px;
+  border: solid black 2px;
+}
+#progressBar > div{
+  background-color: #3CB371;
+  height: 20px;
+  border-radius: 5px;
+}
